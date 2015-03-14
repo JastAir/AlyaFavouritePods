@@ -3,7 +3,8 @@ platform :ios, '6.0'
 # 
 # Netwroking
 #
-pod 'RestKit
+pod 'RestKit'
+pod 'AFNetworking'
 
 #
 # Social 
