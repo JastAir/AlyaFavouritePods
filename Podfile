@@ -1,9 +1,23 @@
 platform :ios, '6.0'
  
-pod 'RestKit', '~> 0.22'
+# 
+# Netwroking
+#
+pod 'RestKit
 
+#
+# Social 
+#
 pod 'Facebook-iOS-SDK'
 pod 'Parse'
 pod 'ParseFacebookUtils'
 
+#
+# UI
+#
 pod 'FXBlurView'
+
+#
+# Keychain
+#
+pod 'SSKeychain'
