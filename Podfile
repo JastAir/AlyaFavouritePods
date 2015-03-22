@@ -18,6 +18,7 @@ pod 'ParseFacebookUtils'
 # UI
 #
 pod 'FXBlurView'
+pod 'JVFloatLabeledTextField'
 
 #
 # Keychain
