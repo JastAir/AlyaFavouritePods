@@ -1,10 +1,11 @@
 platform :ios, '6.0'
  
 # 
-# Netwroking
+# Networking
 #
 pod 'RestKit'
 pod 'AFNetworking'
+pod 'AFJSONRPCClient'
 
 #
 # Social 
