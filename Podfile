@@ -19,6 +19,7 @@ pod 'ParseFacebookUtils'
 #
 pod 'FXBlurView'
 pod 'JVFloatLabeledTextField'
+pod 'PKYStepper', '~> 0.1'
 
 #
 # Keychain
