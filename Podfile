@@ -25,3 +25,8 @@ pod 'PKYStepper', '~> 0.1'
 # Keychain
 #
 pod 'SSKeychain'
+
+#
+# Distribution 
+#
+pod 'HockeySDK', '~> 3.6.2'
