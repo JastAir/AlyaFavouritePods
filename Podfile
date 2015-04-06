@@ -1,4 +1,4 @@
-platform :ios, '6.0'
+platform :ios, '7.0'
  
 # 
 # Networking
@@ -20,6 +20,8 @@ pod 'ParseFacebookUtils'
 pod 'FXBlurView'
 pod 'JVFloatLabeledTextField'
 pod 'PKYStepper', '~> 0.1'
+pod 'KVNProgress'
+pod 'IQKeyboardManager'
 
 #
 # Keychain
