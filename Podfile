@@ -49,3 +49,8 @@ pod 'Braintree'
 # Calendar
 #
 pod 'JTCalendar'
+
+#
+# Map
+#
+pod 'GoogleMaps'
